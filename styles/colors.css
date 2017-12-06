@@ -1,0 +1,19 @@
+.image-border-yellow {
+  border: 2px solid yellow;
+}
+
+.image-border-red {
+  border: 2px solid red;
+}
+
+.image-border-orange {
+  border: 2px solid orange;
+}
+
+.image-border-black {
+  border: 2px solid black;
+}
+
+.color-gray {
+  background: #E4E4E4;
+}

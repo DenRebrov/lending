@@ -1,0 +1,11 @@
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.title-large {
+  font-size: 48px;
+  margin-bottom: 18px;
+}
